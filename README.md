@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Eugene 👋
 
-<!--
-**e-chu-cip/e-chu-cip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a practicing physician and clinical leader with an interest in building
+small, practical software tools for learning, automation, and everyday workflow problems.
 
-Here are some ideas to get you started:
+Most of my work here is exploratory and educational — learning by building,
+iterating, and refining projects over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest
+- Lightweight Python applications and automation
+- Educational tools for kids and families
+- Clinical workflow and scheduling support
+- Thoughtful, responsible use of AI in healthcare
+
+Some projects are public, others are private and work-related.
+This space will grow gradually as projects mature.
